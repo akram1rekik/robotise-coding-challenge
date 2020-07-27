@@ -1,0 +1,17 @@
+{
+  "name": "robotise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "Akram Rekik",
+  "dependencies": {
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "ava": "^3.10.1"
+  }
+}

@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Hans Müller",
+        "birthDate": "29.11.1951",
+        "startDate": "01.01.2002"
+    },
+    {
+        "name": "Ella Weber",
+        "birthDate": "10.07.1967",
+        "startDate": "15.01.2002"
+    },
+    {
+        "name": "Peter Becker",
+        "birthDate": "11.08.1992",
+        "startDate": "15.05.2017",
+        "specialContract": 29
+    },
+    {
+        "name": "Alice Wagner",
+        "birthDate": "27.02.1971",
+        "startDate": "15.01.2019"
+    },
+    {
+        "name": "Robert Schmidt",
+        "birthDate": "24.06.1981",
+        "startDate": "01.12.2018"
+    }
+]
