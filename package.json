@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Akram Rekik",
   "dependencies": {
-    "moment": "^2.27.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "ava": "^3.10.1"
